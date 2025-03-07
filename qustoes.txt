@@ -11,11 +11,13 @@ git add prepara arquivos para commit. git add <arquivo> adiciona arquivos espec�
 enquanto git add . adiciona todos os arquivos modificados.
 
 4. Por que utilizamos o ponto (.) no comando git add .?
-Para adicionar todos os arquivos modificados no 
+Para adicionar todos os arquivos modificados no diretorio atual
 
 5. Explique o comando git commit e por que é importante criar uma mensagem descritiva.
+para sabermos quais alterações feitas 
 
 6. Qual a função do comando git push?
+Para podermos enviar as alterações feitas em um repertorio local para um repositório remoto
 
 7. Qual a importância de criar commits frequentes durante o desenvolvimento de um projeto?
 
