@@ -13,7 +13,7 @@
       "header"
       "main"
       "footer";
-    background: linear-gradient(#E6007E, #002D72 50%, #FFFF 60%, #002D72);
+    background: linear-gradient(#E6007E, #002D72 50%, 60%, #002D72);
   }
   
   header {
@@ -25,7 +25,7 @@
     color: #ffffff;
     padding-left: 75px;
     padding-right: 20px;
-    background: #E6007E;
+  
   }
   
   header span {
@@ -37,7 +37,7 @@
     grid-area: main;
     display: grid;
     place-items: center;
-    background-color: #002D72;
+  
   }
   
   footer {
@@ -48,7 +48,7 @@
     color: #ffffff;
     padding: 0 75px;
     font-weight: 100;
-    background-color: #E6007E;
+    
   }
   .footer span{
     align-items: center;
